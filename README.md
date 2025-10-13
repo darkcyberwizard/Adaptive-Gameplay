@@ -13,6 +13,8 @@ Through principles like **Selection**, **Crossover**, and **Mutation**, enemy AI
 In this simulation, each **enemy’s behavior** is encoded as a **chromosome**, which defines attributes such as movement, shooting style, and aggression level.
 As the game progresses, the **Genetic Algorithm** evaluates each chromosome’s fitness and evolves the population toward more effective strategies.
 
+![Chromosome Attributes](Images/Chromosome_Attributes.png)
+
 <p align="center">
   <img width="650" height="300" src="Images/Chromosome_Attributes.png" alt="Chromosome Attributes Diagram">
 </p>
@@ -116,3 +118,4 @@ This project is released under the **MIT License** — you are free to use, modi
 * **Nipuna H. Weeratunge** – [GitHub](https://github.com/darkcyberwizard) | [Email](mailto:nipuna.h.weeratunge@gmail.com)
 
 ---
+
