@@ -1,4 +1,3 @@
----
 
 # 🧬 Evolving Enemies
 
@@ -15,7 +14,7 @@ In this simulation, each **enemy’s behavior** is encoded as a **chromosome**, 
 As the game progresses, the **Genetic Algorithm** evaluates each chromosome’s fitness and evolves the population toward more effective strategies.
 
 <p align="center">
-  <img width="650" height="300" src="/Images/Chromosome_Attributes.png" alt="Chromosome Attributes Diagram">
+  <img width="650" height="300" src="Images/Chromosome_Attributes.png" alt="Chromosome Attributes Diagram">
 </p>
 
 * **Genes 0–5**: Represent binary traits (`0` = disabled, `1` = enabled).
@@ -117,4 +116,3 @@ This project is released under the **MIT License** — you are free to use, modi
 * **Nipuna H. Weeratunge** – [GitHub](https://github.com/darkcyberwizard) | [Email](mailto:nipuna.h.weeratunge@gmail.com)
 
 ---
-
