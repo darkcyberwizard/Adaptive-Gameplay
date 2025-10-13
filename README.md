@@ -19,6 +19,10 @@ As the game progresses, the **Genetic Algorithm** evaluates each chromosome’s 
   <img width="650" height="300" src="Images/Chromosome_Attributes.png" alt="Chromosome Attributes Diagram">
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/darkcyberwizard/Adaptive-Gameplay/main/Images/Chromosome_Attributes.png" alt="Chromosome Attributes Diagram" width="650">
+</p>
+
 * **Genes 0–5**: Represent binary traits (`0` = disabled, `1` = enabled).
 * **Gene 6**: Represents a **fitness value** (decimal), used for selection and evolution in subsequent generations.
 
@@ -118,5 +122,6 @@ This project is released under the **MIT License** — you are free to use, modi
 * **Nipuna H. Weeratunge** – [GitHub](https://github.com/darkcyberwizard) | [Email](mailto:nipuna.h.weeratunge@gmail.com)
 
 ---
+
 
 
