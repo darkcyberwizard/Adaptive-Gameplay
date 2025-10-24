@@ -108,7 +108,7 @@ The core gameplay demonstrates how enemies adapt across multiple episodes. As fi
 
 ### 📜 License
 
-This project is released under the **MIT License** — you are free to use, modify, and distribute it with attribution.
+This project is released under the **MIT License** — you are free to use, modify, and distribute it with attribution. See [LICENSE](LICENSE) for details.
 
 ---
 
@@ -119,6 +119,7 @@ This project is released under the **MIT License** — you are free to use, modi
 * **Nipuna H. Weeratunge** – [GitHub](https://github.com/darkcyberwizard) | [Email](mailto:nipuna.h.weeratunge@gmail.com)
 
 ---
+
 
 
 
